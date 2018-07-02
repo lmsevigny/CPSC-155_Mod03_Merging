@@ -1,4 +1,4 @@
-# Ch3.2
+# Module 03
 # Exercise: Basic Branching and (Fast-Forward and Recursive) Merging
 
 ## Step 1
